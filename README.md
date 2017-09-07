@@ -3,6 +3,7 @@ Raspberry Pi GPIO Library for Java to control Pi's GPIO pins
 
 <h2>Code examples</h2>
 
+Turn a pin on:
 ```java
 import es.esy.playdotv.gpiolib.GPIO;
 import es.esy.playdotv.gpiolib.Mode;
@@ -12,7 +13,7 @@ g18.gpioON();
 ```
 That's it.
 
-To turn GPIO back off just use
+To turn the pin back off just use
 ```java 
 g18.gpioOFF();
 ```
