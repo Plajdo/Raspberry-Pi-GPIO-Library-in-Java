@@ -32,4 +32,4 @@ if(g18.isON(PUD.UP)){
 }
 ```
 <h2>Download</h2>
-[Click here to download](https://github.com/Plajdo/Raspberry-Pi-GPIO-Library-in-Java/releases);
+Binary .jar file download: https://github.com/Plajdo/Raspberry-Pi-GPIO-Library-in-Java/releases
