@@ -15,6 +15,9 @@ g18.gpioON();```
 
 That's it.
 
-To turn GPIO back off use ```java g18.gpioOFF();```
+To turn GPIO back off just use
+
+```java 
+g18.gpioOFF();```
 
 Easy.
