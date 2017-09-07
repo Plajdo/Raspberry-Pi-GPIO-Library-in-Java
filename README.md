@@ -1,4 +1,5 @@
 # Raspberry-Pi-GPIO-Library-in-Java
+Raspberry Pi GPIO Library for Java to control Pi's GPIO pins
 
 <h2>Code examples</h2>
 
