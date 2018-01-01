@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.lang.ProcessBuilder.Redirect;
 
-public class RunPythonCode {
+class RunPythonCode {
 
 	static boolean fromFile(File file) {
 

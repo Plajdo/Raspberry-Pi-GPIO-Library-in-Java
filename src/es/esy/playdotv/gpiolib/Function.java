@@ -1,6 +1,6 @@
 package es.esy.playdotv.gpiolib;
 
-public enum Function {
+enum Function {
 	CLEANUP,
 	VERSION,
 	NORMAL_OUTPUT_ON,

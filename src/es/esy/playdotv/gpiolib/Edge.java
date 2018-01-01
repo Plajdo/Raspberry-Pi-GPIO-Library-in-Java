@@ -1,6 +1,6 @@
 package es.esy.playdotv.gpiolib;
 
-public enum Edge {
+enum Edge {
 	RISING,
 	FALLING;
 }

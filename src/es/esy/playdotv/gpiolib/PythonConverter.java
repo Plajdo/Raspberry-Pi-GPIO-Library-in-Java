@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class PythonConverter {
+class PythonConverter {
 	
 	private static final String eol = System.getProperty("line.separator");
 	
